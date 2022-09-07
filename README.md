@@ -1,16 +1,12 @@
-### Hi there 👋
+### About
+- Software Engineering Student.
 
-<!--
-**umitdemirr/umitdemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+<p align="center">
+  <a href="https://github.com/emredemirr/CarRental"><img title="Car Rental" src="https://github-readme-stats.vercel.app/api/pin/?username=emredemirr&repo=CarRental&theme=material-palenight"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emredemirr/)
+[![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umit.demiir@outlook.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umitdemirr/)
