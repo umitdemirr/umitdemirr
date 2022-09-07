@@ -2,7 +2,7 @@
 - Software Engineering Student.
 
 ### Projects
-<p align="center">
+<p align="left">
   <a href="https://github.com/emredemirr/CarRental"><img title="Car Rental" src="https://github-readme-stats.vercel.app/api/pin/?username=emredemirr&repo=CarRental&theme=material-palenight"></a>
 </p>
 
