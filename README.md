@@ -3,7 +3,7 @@
 
 ### Projects
 <p align="left">
-  <a href="https://github.com/emredemirr/CarRental"><img title="Car Rental" src="https://github-readme-stats.vercel.app/api/pin/?username=emredemirr&repo=CarRental&theme=material-palenight"></a>
+  <a href="https://github.com/emredemirr/CarRental"><img title="Beginner Level Java" src="https://github.com/umitdemirr/Beginner-Level-Java/blob/master/JAVA101-Patika.iml"></a>
 </p>
 
 ### Contact
