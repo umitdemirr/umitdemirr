@@ -1,7 +1,7 @@
 <h1 align="center">Ben, Ümit Demir</h1>
 <h3 align="center">Fırat Üniversitesinde Yazılım Mühendisliği Öğrencisiyim</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umitdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="umitdemirr" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=umitdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="umitdemirr" /> </p>
 
 - 🔭 1.Sınıf Görevi [Yazılım Mühendisliği Oryantasyonu](https://github.com/umitdemirr/Yazilim-Muhendisligi-Oryantasyonu)
 - 📫 Bana Ulaşmak İçin **umit.demiir@outlook.com**
