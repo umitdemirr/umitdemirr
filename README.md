@@ -2,15 +2,41 @@
 <h3 align="center">Fırat Üniversitesinde Yazılım Mühendisliği Öğrencisiyim</h3>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=umitdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="umitdemirr" /> 
+    <img src="https://komarev.com/ghpvc/?username=umitdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="umitdemirr" width="100" /> 
 </p>
 
-- 🔭 1. Sınıf Görevi: [Yazılım Mühendisliği Oryantasyonu](https://github.com/umitdemirr/Yazilim-Muhendisligi-Oryantasyonu)
-- 📫 Bana Ulaşmak İçin: **umit.demiir@outlook.com**
+<h3 align="center">Hakkımda</h3>
+<p align="center" style="max-width: 600px; margin: auto;">
+    Yazılım mühendisliği alanında öğrenmeye hevesli bir öğrenciyim. Yeni teknolojileri keşfetmek ve projeler geliştirmek benim için büyük bir tutku.
+</p>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Proje ve Deneyim</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px; margin: auto;">
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center; background-color: #f9f9f9;">
+        <strong>🔭 Yazılım Mühendisliği Oryantasyonu</strong>
+        <p>Kısa açıklama burada yer alacak.</p>
+        <a href="https://github.com/umitdemirr/Yazilim-Muhendisligi-Oryantasyonu" target="_blank" style="text-decoration: none; color: #007bff;">GitHub Projesi</a>
+    </div>
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center; background-color: #f9f9f9;">
+        <strong>💻 Proje 1</strong>
+        <p>Kısa açıklama burada yer alacak.</p>
+        <a href="#" target="_blank" style="text-decoration: none; color: #007bff;">GitHub Projesi</a>
+    </div>
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center; background-color: #f9f9f9;">
+        <strong>📱 Proje 2</strong>
+        <p>Kısa açıklama burada yer alacak.</p>
+        <a href="#" target="_blank" style="text-decoration: none; color: #007bff;">GitHub Projesi</a>
+    </div>
+</div>
+
+<h3 align="center">Sosyal Medya</h3>
 <p align="center">
-    <!-- Sosyal medya bağlantılarınızı buraya ekleyebilirsiniz -->
+    <a href="https://www.linkedin.com/in/%C3%BCmitdemir/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/>
+    </a> 
+    <a href="https://twitter.com/yourprofile" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png" alt="Twitter" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
